@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AURM Token - Empowering Wealth on Base</title>
+    <style>
+        /* Basic CSS Styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #1a73e8;
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        nav {
+            background-color: #333;
+            padding: 1rem;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #1a73e8;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        section {
+            background-color: white;
+            margin-bottom: 2rem;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #1a73e8;
+            font-size: 1.8rem;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            nav a { display: block; margin: 0.5rem 0; }
+            .container { padding: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>AURM Token</h1>
+        <p>Empowering Wealth on the Base Network</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#overview">Overview</a>
+        <a href="#tokenomics">Tokenomics</a>
+        <a href="#how-to-buy">How to Buy</a>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Overview Section -->
+        <section id="overview">
+            <h2>What is AURM?</h2>
+            <p>
+                AURM is a revolutionary token built on the Base network, an Ethereum Layer 2 solution designed for speed, scalability, and low-cost transactions. Our mission is to empower users with a secure, transparent, and community-driven cryptocurrency that redefines wealth creation in the decentralized world.
+            </p>
+            <p>
+                Whether you're a trader, investor, or enthusiast, AURM offers a gateway to the future of finance on Base.
+            </p>
+        </section>
+
+        <!-- Tokenomics Section -->
+        <section id="tokenomics">
+            <h2>Tokenomics</h2>
+            <ul>
+                <li><strong>Total Supply:</strong> [Insert Total Supply, e.g., 1,000,000 AURM]</li>
+                <li><strong>Contract Address:</strong> [Insert Your Base Contract Address]</li>
+                <li><strong>Distribution:</strong>
+                    <ul>
+                        <li>50% - Community Rewards</li>
+                        <li>30% - Liquidity Pool</li>
+                        <li>15% - Development Team</li>
+                        <li>5% - Marketing</li>
+                    </ul>
+                </li>
+                <li><strong>Utility:</strong> Staking, governance, and transaction fees on the AURM ecosystem.</li>
+            </ul>
+            <p>Details are subject to change based on community governance decisions.</p>
+        </section>
+
+        <!-- How to Buy Section -->
+        <section id="how-to-buy">
+            <h2>How to Buy AURM</h2>
+            <ol>
+                <li><strong>Set Up a Wallet:</strong> Download MetaMask or another Base-compatible wallet.</li>
+                <li><strong>Add Base Network:</strong> Configure your wallet to connect to Base (RPC: https://mainnet.base.org).</li>
+                <li><strong>Get ETH on Base:</strong> Bridge ETH from Ethereum to Base using the official Base Bridge.</li>
+                <li><strong>Swap for AURM:</strong> Visit a DEX like Uniswap on Base, paste the AURM contract address, and swap ETH for AURM.</li>
+                <li><strong>Add to Wallet:</strong> Import AURM to your wallet using the contract address.</li>
+            </ol>
+            <p>Stay tuned to our X profile <a href="https://x.com/AURMToken">@AURMToken</a> for updates!</p>
+        </section>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 AURM Token. All rights reserved. | Follow us on <a href="https://x.com/AURMToken" style="color: #1a73e8;">X</a></p>
+    </footer>
+</body>
+</html>
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
